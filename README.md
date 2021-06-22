@@ -1,3 +1,4 @@
 # livro-receitas!
 
-Strogonoff
+* Strogonoff
+* Pavê
